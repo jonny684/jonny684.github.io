@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+## jonny684.github.io
+ 
+welcome to my website; im john and im from usa and im interested on web development. My go to programming language is python. 
 
-You can use the [editor on GitHub](https://github.com/jonny684/jonny684.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Programming Lanuages 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+i love using python , but im also good at javascript. go and PHP 
 
 ```markdown
 Syntax highlighted code block
